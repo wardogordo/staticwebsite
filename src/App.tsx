@@ -27,6 +27,9 @@ function App() {
         <p>
           Make another edit of <code>src/App.tsx</code> and save to test HMR... again.
         </p>
+          <p>
+              CAN YOU TELL ME WHAT YOU SEE?? 2026-01-15_1905
+          </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
